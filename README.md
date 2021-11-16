@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiroki-Fukumoto&rank=S,SS,SSS,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -41,3 +39,7 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiroki-Fukumoto&rank=S,SS,SSS,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://user-images.githubusercontent.com/17942113/141871761-02318fe5-cdba-4db9-8ec6-1ad4fd57920b.png" width="120" />
